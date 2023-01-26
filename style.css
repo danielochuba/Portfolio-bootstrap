@@ -1,0 +1,51 @@
+.top-section {
+  background: #1c1a19;
+  padding-top: 150px;
+}
+
+.primary-text,
+.about-me {
+  color: #f55800;
+}
+
+.header-image {
+  height: 100%;
+  width: 45%;
+}
+
+.title {
+  width: fit-content;
+}
+
+.rule {
+  width: 100%;
+}
+
+.recent-works {
+  width: fit-content;
+}
+
+.rule-div {
+  width: 68%;
+}
+
+.mob {
+  display: none;
+}
+
+.section-3 {
+  background: #262626;
+}
+
+.about-image {
+  height: 100%;
+}
+
+.get-resume,
+.see-project {
+  background: #f55800;
+}
+
+.description-2 {
+  width: 60%;
+}
